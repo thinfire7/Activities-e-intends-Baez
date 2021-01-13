@@ -1,0 +1,6 @@
+co/edu/unipiloto/laboratoriointendsgooglemaps/MainActivity.java
+ co.edu.unipiloto.laboratoriointendsgooglemaps.MainActivity
+co/edu/unipiloto/laboratoriointendsgooglemaps/Inicio.java
+ co.edu.unipiloto.laboratoriointendsgooglemaps.Inicio
+co/edu/unipiloto/laboratoriointendsgooglemaps/BuildConfig.java
+ co.edu.unipiloto.laboratoriointendsgooglemaps.BuildConfig
